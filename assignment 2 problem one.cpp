@@ -2,7 +2,7 @@
     using namespace std;
      
     int main() {
-    	int a;
+    	float a;
     	cout<<"enter the length in centimeter";
     	cin>>a;
     	cout<<"the length in meters is "<<a/100;
