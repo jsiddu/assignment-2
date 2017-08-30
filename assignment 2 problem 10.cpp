@@ -8,7 +8,7 @@ int main() {
 	cin>>x>>y>>z>>a>>b;
 	cout<<"the total is  "<<x+y+z+a+b;
 	cout<<"the average is"<<(x+y+z+a+b)/5;
-	cout<<"the percentage is"<<(x+y+z+a+b)*20;
+	cout<<"the percentage is"<<(x+y+z+a+b)/5;
 
 	return 0;
 }
